@@ -1,0 +1,189 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.Firstnav{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(Images/image01.jpg);
+    height: 900px;
+    width: 100%;
+    padding-top: 40px;
+    color: white;
+    padding-left: 14%;
+    word-spacing: 40px;
+}
+.Firstnav h1{
+    padding-right: 100px;
+}
+div ul li{
+    display: inline-block;
+    text-align: center;
+}
+div ul,a{
+    text-decoration:none ;
+    color: white;
+    font-size: 120%;
+}
+.right{
+    float: right;
+    padding-right: 100px;
+    padding-top: 20px;
+    border-bottom: 4px solid purple;
+    border-width: 4px;
+}
+.headtwo{
+    text-align: center;
+    word-spacing: 0px;
+    padding-top: 200px;
+    text-align: justify;
+    font-size: 90px;
+    margin-bottom: 40px;
+}
+button{
+    background-color: red;
+    border-radius: 20px;
+    width: 10%;
+    height: 5%;
+    color: white;
+    font-size: 20px;
+}
+button:hover{
+    background-color: rgb(35, 58, 70);
+}
+.main{
+    padding-top: 80px;
+    text-align: center;
+}
+h5{
+    color: #615CFD;
+    font-size: 20px;
+}
+.main p{
+    font-size: 50px;
+    padding-top: 30px;
+}
+.cards{
+    padding-top: 60px;
+}
+.cards p{
+    display: inline-block;
+    text-align: center;
+    border: 2px solid rgb(117, 117, 117);
+    width: 25%;
+    font-size: 20px;
+    color: grey;
+    height: 300px;
+    border-radius: 20px;
+}
+.twobro{
+    padding-top: 10%;
+}
+.twobro img{
+    float: left;
+}
+.bro{
+    color: aliceblue;
+    background-color: black;
+    height: 730px;
+    padding-top: 10%;
+    text-align: center;
+}
+.bro h2{
+    font-size: 40px;
+}
+.bro p{
+    color: grey;
+    font-size: 40px;
+}
+.but{
+    margin-top: 50px;
+    background-color:#615CFD;
+    border-radius: 40px;
+    width: 10%;
+    height: 9%;
+    color: white;
+    font-size: 20px;
+}
+.but:hover{
+    background-color: black;
+    border: 1px solid #615CFD;
+}
+.foot{
+    text-align: center;
+    padding-top: 10%;
+    font-size: 30px;
+}
+.foot p{
+    padding-top: 10px;
+    color: gray;
+    font-size: 20px;
+    margin-bottom: 5%;
+}
+.fcards p{
+    display: inline-block;
+    text-align: center;
+    width: 15%;
+}
+.foottwo{
+    text-align: center;
+}
+input{
+    width: 20%;
+    border-radius: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    font-size: 20px;
+}
+.subject input{
+    width: 40%;
+}
+.message input{
+    padding-bottom: 140px;
+    width: 40%;
+}
+.buttre{
+    width: 40%;
+    height: 14%;
+    background-color: #615CFD;
+    padding-top: 10px;
+    padding-bottom:10px ;
+    border-radius: 30px;
+}
+.buttre:hover{
+    border: 1px solid #615CFD;
+    background-color: white;
+    color: #615CFD;
+}
+.Footer{
+    margin-top: 150px;
+    background-color: black;
+    width: 100%;
+    height: 340px;
+    text-align: center;
+    word-spacing: 45px;
+    padding-top: 25px;
+}
+.fot{
+    float: right;
+    padding-top: 20px;
+    padding-right:100px;
+}
+i{
+    padding-top: 8px;
+    width: 50px;
+    height: 40px;
+    border-radius: 50%;
+    border: 2px solid white;
+    font-size: 20px;
+}
+.last p{
+    color: white;
+    text-align: center;
+    padding-top: 200px;
+    word-spacing: 10px;
+    font-size: 18px;
+}
